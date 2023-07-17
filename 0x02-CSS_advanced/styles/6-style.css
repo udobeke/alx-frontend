@@ -22,8 +22,8 @@ html {
 
 body {
   color: var(--text-color);
-  font: var(--font-family-base);
-  font: var(--font-size-medium);
+  font-family: var(--font-family-base);
+  font-family: var(--font-size-medium);
 
 }
 
